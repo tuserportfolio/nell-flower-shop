@@ -83,7 +83,7 @@ const IndexPage = () => (
             <div className="bg-faded p-5 d-flex ml-auto rounded">
               <h2 className="section-heading mb-0">
                 <span className="section-heading-upper">
-                  From Around the World
+                  From Around the World!
                 </span>
                 <span className="section-heading-lower">
                   Floral designs
