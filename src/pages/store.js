@@ -47,7 +47,7 @@ const IndexPage = () => (
               </ul>
               <p className="address mb-5">
                 <em>
-                  <strong>1116 Orchard Street</strong>
+                  <strong>1115 Orchard Street</strong>
                   <br />
                   Golden Valley, Minnesota
                 </em>
